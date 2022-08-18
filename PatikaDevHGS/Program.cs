@@ -22,17 +22,17 @@ namespace PatikaDevHGS
             Car1.hgsNumber = 1111111111;
             Car1.ownerName = "Satoshi Nakamoto";
             Car1.vehicleType = "Car";
-            Car1.budget = 300;
+            
 
             Van1.hgsNumber = 2222222222;
             Van1.ownerName = "Vitalik Buterin";
             Van1.vehicleType = "Van";
-            Van1.budget = 500;
+           
 
             Bus1.hgsNumber = 3333333333;
             Bus1.ownerName = "Alan Turing";
             Bus1.vehicleType = "Bus";
-            Bus1.budget = 100;
+            
             p1:
             Console.WriteLine("Choose Action: ");
             Console.WriteLine("1- Pass a car");
